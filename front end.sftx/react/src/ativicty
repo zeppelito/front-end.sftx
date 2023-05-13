@@ -1,0 +1,16 @@
+function mensagem() {
+  return "Esta é uma mensagem de teste";
+}
+
+export default mensagem;
+
+import mensagem from './nova-pasta/arquivo.js';
+
+function App() {
+  return (
+    <div>
+      <h1>Meu nome é Fulano de Tal</h1>
+      <p>{mensagem()}</p>
+    </div>
+  );
+}
