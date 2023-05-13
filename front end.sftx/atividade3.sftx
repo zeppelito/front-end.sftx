@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Título da Página</title>
+  </head>
+  <body>
+    <header>
+      <h1>Cabeçalho da Página</h1>
+    </header>
+    
+    <main>
+      <h2>Conteúdo da Página</h2>
+      <p>Aqui vai o conteúdo da página...</p>
+      <img src="caminho/para/imagem.jpg" alt="Descrição da imagem">
+    </main>
+    
+    <footer>
+      <p>Rodapé da Página</p>
+    </footer>
+  </body>
+</html>
